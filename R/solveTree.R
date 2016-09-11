@@ -1,6 +1,6 @@
 
 #' Find nodes and branches of an HTML tree in a nested set model representation.
-#' @description Find nodes and branchs of an HTML tree in a nested set model representation
+#' @description Find nodes and branches of an HTML tree in a nested set model representation
 #' @param a Representation of the tree as a linear vector nodes  numbers (nested set model)
 #' @author Leandro Roser \email{leandroroser@@gmail.com}
 #' @export
