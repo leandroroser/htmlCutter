@@ -6,7 +6,6 @@
 #' @export
 
 
-# https://en.wikipedia.org/wiki/Nested_set_model
 solveTree <- function(a, recursive  = TRUE) {
   first <- a[1]
   lista <- as.list(rep(0, length(unique(a))))
